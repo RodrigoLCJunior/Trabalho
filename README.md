@@ -10,5 +10,6 @@ var regExpNome = /^[^\d]+$/
 [0-9]{4} - Colocar exatamente quatro dígitos.
 $ - Indica o fim da string.
 
+regExp é uma expressão regular.
 
 
