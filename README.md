@@ -11,5 +11,5 @@ var regExpNome = /^[^\d]+$/
 $ - Indica o fim da string.
 
 regExp é uma expressão regular.
-
+.test ele verifica ém forma logica se é verdadeiro ou falso.
 
