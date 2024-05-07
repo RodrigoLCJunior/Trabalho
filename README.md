@@ -1,4 +1,6 @@
 # Trabalho
+var regExpTelefone = /^\([0-9]]{2}}\) \[0-9]{4,5}-?\[0-9]{4}$/;
+var regExpNome = /^[^\d]+$/
 
 ^ - Indica o início da string.
 \( \)- Corresponde a um parêntese de abertura e de fechamento.
@@ -7,3 +9,6 @@
 -? - Corresponde a um hífen opcional.
 [0-9]{4} - Colocar exatamente quatro dígitos.
 $ - Indica o fim da string.
+
+
+
